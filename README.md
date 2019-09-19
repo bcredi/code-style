@@ -15,7 +15,7 @@ If you want to contribute, follow the steps below:
 6 - Create a new PR in GitHub, assign yourself and request a codereview;
 7 - Respond to any code review feedback;
 
-### Add a new section
+#### Add a new section
 - Branch name: `insert/LANGUAGE-name-of-the-insertion`.
 - Branch name example: `insert/html-attributes-order`
 
@@ -32,16 +32,16 @@ If you want to contribute, follow the steps below:
 
 Our code styles and guidelines are available for the languages:
 
-### Docs
+#### Docs
 - Yaml: [Styles]() | [Guides]()
 - Markdown: [Styles]() | [Guides]()
 
-### Front-end
+#### Front-end
 - HTML: [Styles]() | [Guides]()
 - CSS: [Styles]() | [Guides]()
 - JS: [Styles]() | [Guides]()
 
-### Back-end
+#### Back-end
 - Elixir: [Styles]() | [Guides]()
 - Ruby: [Styles]() | [Guides]()
 - Python: [Styles]() | [Guides]()
