@@ -7,13 +7,13 @@ Here you will find our code style, project guidelines and some good stuff about 
 
 If you want to contribute, follow the steps below:
 
-1 - Clone the repo;
-2 - Sync your local copy before you branch;
-3 - Create a branch for each separate piece of work;
-4 - Do the work and write good commit messages;
-5 - Push to your origin repository;
-6 - Create a new PR in GitHub, assign yourself and request a codereview;
-7 - Respond to any code review feedback;
+1. Clone the repo;
+2. Sync your local copy before you branch;
+3. Create a branch for each separate piece of work;
+4. Do the work and write good commit messages;
+5. Push to your origin repository;
+6. Create a new PR in GitHub, assign yourself and request a codereview;
+7. Respond to any code review feedback;
 
 #### Add a new section
 - Branch name: `insert/LANGUAGE-name-of-the-insertion`.
