@@ -129,3 +129,9 @@ We also use CSS-in-JS in some projects. The same style is applied then - for dec
 A special usage case for CSS-in-JS tools is to develop "white labeled" projects, due to its conditional CSS render.
 
 If possible, prefer to use plain CSS over CSS-in-JS.
+
+
+## See also
+If it would help, take a look at those cool references:
+
+- [Code Guide by @mdo - CSS](https://codeguide.co/#css)
